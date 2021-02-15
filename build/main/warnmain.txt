@@ -1,0 +1,43 @@
+missing module named 'multiprocessing.forking' - imported by C:\Develoapment\Python\AutoMelody\venv\Lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named posix - imported by os, shutil, C:\Develoapment\Python\AutoMelody\main.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, C:\Develoapment\Python\AutoMelody\main.py
+missing module named org - imported by pickle, C:\Develoapment\Python\AutoMelody\main.py
+missing module named readline - imported by cmd, code, pdb, C:\Develoapment\Python\AutoMelody\main.py
+missing module named asyncio.DefaultEventLoopPolicy - imported by asyncio, asyncio.events, C:\Develoapment\Python\AutoMelody\main.py
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection, C:\Develoapment\Python\AutoMelody\main.py
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection, C:\Develoapment\Python\AutoMelody\main.py
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool, C:\Develoapment\Python\AutoMelody\main.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes, C:\Develoapment\Python\AutoMelody\main.py
+missing module named _winreg - imported by platform, C:\Develoapment\Python\AutoMelody\main.py
+missing module named java - imported by platform, C:\Develoapment\Python\AutoMelody\main.py
+missing module named 'java.lang' - imported by platform, C:\Develoapment\Python\AutoMelody\main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Develoapment\Python\AutoMelody\main.py
+missing module named termios - imported by tty, getpass, C:\Develoapment\Python\AutoMelody\main.py
+missing module named _scproxy - imported by urllib.request, C:\Develoapment\Python\AutoMelody\main.py
+missing module named resource - imported by posix, test.support, C:\Develoapment\Python\AutoMelody\main.py
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn, C:\Develoapment\Python\AutoMelody\main.py
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn, C:\Develoapment\Python\AutoMelody\main.py
+missing module named _posixshmem - imported by multiprocessing.resource_tracker, multiprocessing.shared_memory, C:\Develoapment\Python\AutoMelody\main.py
+missing module named 'org.python' - imported by copy, C:\Develoapment\Python\AutoMelody\main.py, xml.sax
+missing module named pep517 - imported by importlib.metadata, C:\Develoapment\Python\AutoMelody\main.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, zipimport, C:\Develoapment\Python\AutoMelody\main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, zipimport, C:\Develoapment\Python\AutoMelody\main.py
+missing module named pwd - imported by posixpath, shutil, tarfile, pathlib, subprocess, http.server, webbrowser, netrc, getpass, distutils.util, C:\Develoapment\Python\AutoMelody\main.py
+missing module named grp - imported by shutil, tarfile, pathlib, subprocess, C:\Develoapment\Python\AutoMelody\main.py
+missing module named 'Xlib.XK' - imported by pyautogui._pyautogui_x11
+missing module named 'Xlib.ext' - imported by pyautogui._pyautogui_x11
+missing module named Xlib - imported by mouseinfo, pyautogui._pyautogui_x11
+missing module named 'Xlib.display' - imported by pyautogui._pyautogui_x11
+missing module named AppKit - imported by pyperclip, pyautogui._pyautogui_osx
+missing module named Quartz - imported by pygetwindow._pygetwindow_macos, pyautogui._pyautogui_osx
+missing module named Tkinter - imported by pymsgbox, mouseinfo
+missing module named 'rubicon.objc' - imported by mouseinfo
+missing module named rubicon - imported by mouseinfo
+missing module named PIL - imported by pyscreeze, mouseinfo
+missing module named Foundation - imported by pyperclip
+missing module named PyQt4 - imported by pyperclip
+missing module named PyQt5 - imported by pyperclip
+missing module named qtpy - imported by pyperclip
+missing module named gtk - imported by pyperclip
+missing module named numpy - imported by pyscreeze
+missing module named cv2 - imported by pyscreeze
